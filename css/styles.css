@@ -119,7 +119,7 @@ h1,h2,h3,h4,h5,h6{
 
 .descripions-paragraph{
   font-size: 1.3rem;
-  text-align: justify;
+  text-align: left;
 }
 /* Purpose Section */
 .purpose-title-div{
